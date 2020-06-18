@@ -9,6 +9,10 @@ public class Text02 {
 
         System.out.println("3");
         System.out.println("4");
+        
+        
+        final double PI =4.141592;
+        
     }
 
 }
